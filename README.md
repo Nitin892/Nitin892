@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Shenigaram</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRljXrxScr6TSB95GOzviLo9MePFKnOAkr5Tw&usqp=CAU" width="400" align = "right"  alt="coder" />
-- 🌱 I’m currently learning **Express,Nodejs**
+- 🌱 I’m currently learning **LLM,ML**
 
 - 💬 Ask me about **C/C++, Python, Java, Javascript**
 
